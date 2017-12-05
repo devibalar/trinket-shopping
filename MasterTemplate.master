@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterTemplate.master.cs" Inherits="MasterTemplate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+    <script src="/Trinkets/js/jquery.js"></script>
+    <script src="/Trinkets/js/bootstrap.min.js"></script>
+    <style>
+    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+      max-height:117px;
+      padding-top:.5em;
+      background-color:white;
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+    /* Remove the padding around image in panel-body*/
+    .panel-body {
+        padding: 0px;
+     }
+    html,
+    body {
+        height: 100%;
+    }
+    
+    footer {
+        margin: 50px 0;
+    }
+   
+    </style>   
+    <asp:ContentPlaceHolder id="head" runat="server">       
+    </asp:ContentPlaceHolder>      
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Add Logo -->
+        <div class="jumbotron  container-fluid">
+          <div class="clear:both; text-center;margin:0">
+            <img src="/Trinkets/image/banner1.png" alt="Logo"/>  
+          </div>
+        </div>
+        <!-- Add Menu -->
+      <nav class="navbar navbar-inverse">    
+         <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>                        
+              </button>
+            </div>    
+            <div class="collapse navbar-collapse" id="myNavbar">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="/Trinkets/frmHome.aspx">Home</a></li>
+                <li  class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Jewellery<span class="caret"></span></a>
+                  <ul  id="jewellery" class="dropdown-menu">
+                      <li><a href="/Trinkets/frmJewellery.aspx?type=Earring"+>Earring</a></li>
+                      <li><a href="/Trinkets/frmJewellery.aspx?type=Necklace"+>Necklace</a></li>
+                      <li><a href="/Trinkets/frmJewellery.aspx?type=Ring">Ring</a></li>                                                       
+                  </ul>
+                </li>
+                <li><a href="frmContact.aspx">Contact</a></li><!-- http://www.elluminati.in/contactus/ -->
+              </ul> 
+              <ul id="rightList" class="nav navbar-nav navbar-right">
+                 <li id="liAcccount" runat="server" class="dropdown"><a id="aAcccount" class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-user"></span>Your Account<span class="caret"></span></a>
+                  <ul  id="YourAccount" class="dropdown-menu">
+                    <li runat="server" id="liLogout"><a href="#" runat="server" onserverclick="aLogout_ServerClick" >Logout</a> </li>
+                    <li runat="server" id="liProfile"><a href="#"> Profile </a></li>
+                   </ul>
+                 </li>
+                 <li id="liLogin" runat="server" ><a href="/Trinkets/frmLogin.aspx"> Login/Register </a></li>
+                <li><a href="/Trinkets/frmCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span> Cart </a></li>
+              </ul>           
+            </div>
+            </div>
+        </nav>   
+        <asp:HiddenField ID="ProdType" runat="server" />  
+        <asp:ContentPlaceHolder id="MainContent" runat="server">       
+        </asp:ContentPlaceHolder>                                               
+    </form>
+    <br /><br/><br/><br/><br/>
+     <!-- Add copyright and contact details-->
+    <footer class="container-fluid text-center">             
+        <p> Copyright &copy 2017 Trinkets.co.nz. All Rights Reserved </p>         
+    </footer> 
+</body>
+</html>
