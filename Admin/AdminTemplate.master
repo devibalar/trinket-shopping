@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminTemplate.master.cs" Inherits="Admin_AdminTemplate" MasterPageFile="~/MasterTemplate.master" %>
+<asp:Content ContentPlaceHolderID="head" runat="server">
+    <asp:ContentPlaceHolder ID="ChildHead" runat="server">  
+        <style>
+            .side-menu {
+            width:20%;
+            }
+            
+           
+        </style>      
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ContentPlaceHolderID="MainContent" runat="server">
+<asp:panel runat="server" id="panel1" >
+    <div class="container-fluid">
+<div class="row">
+     <div class="col-sm-2 side-menu">
+         <br />
+            <ul class="nav nav-list">
+                <li><label class="tree-toggle nav-header">Products</label>
+                    <ul class="nav nav-list tree">
+                        <li><a href="frmNewProduct.aspx">New Product</a></li>
+                        <li><a href="frmExistingProduct.aspx">Existing Product</a></li>                       
+                    </ul>
+                </li> 
+                 <li class="divider"></li>
+                <li><label class="tree-toggle nav-header">Customer</label>
+                    <ul class="nav nav-list tree">
+                        <li><a href="frmNewUser.aspx">New Admin</a></li>
+                        <li><a href="frmExistingUser.aspx">Existing Customer</a></li>                       
+                    </ul>
+                </li>              
+            </ul>
+    </div>
+    <div class="col-sm-10">
+       <asp:ContentPlaceHolder ID="ChildContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+   </div>
+</div> 
+</asp:panel>
+</asp:Content>

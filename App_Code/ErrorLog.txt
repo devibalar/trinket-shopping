@@ -1,0 +1,487 @@
+********** 4/22/2017 3:16:31 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 3:17:07 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 3:17:24 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 3:47:57 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 3:50:01 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 5:32:18 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 5:32:53 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 5:35:17 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 5:41:02 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 5:48:13 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 6:06:39 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 6:07:29 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 6:08:25 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 6:20:47 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 6:31:27 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 6:31:59 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/22/2017 7:30:47 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 6:26:17 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 6:27:15 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 6:28:13 PM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 6:38:30 PM **********
+Exception Type: System.Web.HttpException
+Exception: Page cannnot be accessed. Forbidden 
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 6:41:33 PM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 9:05:26 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 10:32:03 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 10:55:09 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:03:46 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:07:28 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:21:31 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:22:56 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:23:38 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:24:41 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:26:08 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:28:29 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:32:18 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/23/2017 11:33:46 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 12:02:24 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 12:05:53 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 1:02:25 AM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 1:24:57 AM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 1:56:09 AM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:17:47 AM **********
+Exception Type: System.Data.SqlClient.SqlException
+Exception: Violation of PRIMARY KEY constraint 'Pk_tblUserActivation'. Cannot insert duplicate key in object 'dbo.tblUserActivation'. The duplicate key value is (shanthi_devi88@yahoo.co.in).
+The statement has been terminated.
+Source: Error Page
+Stack Trace: 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at UserActivationAccess.addUserActivation(UserActivation userActivation) in c:\DeviBala\WebAppDev\Backup\Trinkets\App_Code\DAL\UserActivationAccess.cs:line 35
+
+********** 4/24/2017 2:21:17 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:23:59 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:25:43 AM **********
+Exception Type: System.Data.SqlClient.SqlException
+Exception: Violation of UNIQUE KEY constraint 'Uni2_tblUser'. Cannot insert duplicate key in object 'dbo.tblUser'. The duplicate key value is (shanthi_devi88@yahoo.co.in).
+The statement has been terminated.
+Source: Error Page
+Stack Trace: 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at UserAccess.addUser(User user) in c:\DeviBala\WebAppDev\Backup\Trinkets\App_Code\DAL\UserAccess.cs:line 40
+
+********** 4/24/2017 2:28:42 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:34:22 AM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:37:19 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:39:39 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:41:01 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 2:45:03 AM **********
+Exception Type: System.Data.SqlClient.SqlException
+Exception: Violation of UNIQUE KEY constraint 'Uni2_tblUser'. Cannot insert duplicate key in object 'dbo.tblUser'. The duplicate key value is (shanthi_devi88@yahoo.co.in).
+The statement has been terminated.
+Source: Error Page
+Stack Trace: 
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at UserAccess.addUser(User user) in c:\DeviBala\WebAppDev\Backup\Trinkets\App_Code\DAL\UserAccess.cs:line 40
+
+********** 4/24/2017 3:06:05 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:06:26 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:07:10 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:08:31 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:09:44 AM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:10:16 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:10:52 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:11:08 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:11:49 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:16:17 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:17:40 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:19:26 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:19:39 AM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:27:08 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:29:45 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:31:17 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:31:24 AM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:31:31 AM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:31:35 AM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:49:54 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 3:50:23 AM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:18:05 PM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:20:03 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:21:23 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:22:04 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:24:31 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:28:14 PM **********
+Exception Type: System.Exception
+Exception: The error was unhandled by application code.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:52:28 PM **********
+Exception Type: System.Web.HttpException
+Exception: Internal server error. Please try again later
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 9:55:22 PM **********
+Exception Type: System.Exception
+Exception: exception
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   at RestorePassword.Page_Load(Object sender, EventArgs e) in c:\DeviBala\WebAppDev\Backup\Trinkets\frmRestorePassword.aspx.cs:line 12
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 4/24/2017 9:56:40 PM **********
+Exception Type: System.Web.HttpException
+Exception: Unable to find control id 'Password' referenced by the 'ControlToValidate' property of 'RegularExpressionValidator3'.
+Source: Page_Error - Default.aspx
+Stack Trace: 
+   at System.Web.UI.WebControls.BaseValidator.CheckControlValidationProperty(String name, String propertyName)
+   at System.Web.UI.WebControls.BaseValidator.ControlPropertiesValid()
+   at System.Web.UI.WebControls.BaseValidator.OnPreRender(EventArgs e)
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Control.PreRenderRecursiveInternal()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+********** 4/24/2017 10:19:56 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 10:20:07 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 10:33:41 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 4/24/2017 10:33:57 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 7/28/2017 3:04:39 AM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 7/30/2017 6:38:43 PM **********
+Exception Type: System.Web.HttpException
+Exception: An HTTP error occurred. Page Not found. Please try again.
+Source: customErrors section - Web.config
+Stack Trace: 
+********** 7/30/2017 6:39:13 PM **********
+Exception Type: System.Web.HttpException
+Exception: You are not authorized to view this page
+Source: customErrors section - Web.config
+Stack Trace: 
